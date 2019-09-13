@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>icons/open.png</file>
+    <file>icons/save.png</file>
+	<file>icons/undo.png</file>
+	<file>icons/redo.png</file>
+	<file>icons/reset.png</file>
+	<file>icons/saveAs.png</file>
+	<file>icons/zoomIn.png</file>
+	<file>icons/zoomOut.png</file>
+	<file>icons/normalSize.png</file>
+	<file>icons/exit.png</file>
+	<file>icons/fitToWindow.png</file>
+	<file>icons/about.png</file>
+	<file>icons/help.png</file>
+	<file>icons/rotate.png</file>
+	<file>icons/scale.png</file>
+	<file>icons/crop.png</file>
+</qresource>
+</RCC>
